@@ -1,2 +1,22 @@
+# macOS
 .DS_Store
+
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+uv.lock
+pyproject.toml
+.python-version
